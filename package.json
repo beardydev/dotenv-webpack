@@ -40,8 +40,7 @@
   },
   "homepage": "https://github.com/mrsteele/dotenv-webpack#readme",
   "dependencies": {
-    "dotenv": "^4.0.0",
-    "webpack": "^1.14.0"
+    "dotenv": "^4.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
